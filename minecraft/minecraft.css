@@ -1,0 +1,25 @@
+/* latin */
+@font-face {
+  font-family: 'Minecraft';
+  font-style: normal;
+  font-weight: 400;
+  src: url('minecraft/MinecraftRegular.otf')
+}
+@font-face {
+  font-family: 'Minecraft';
+  font-style: italic;
+  font-weight: 400;
+  src: url('minecraft/MinecraftItalic.otf')
+}
+@font-face {
+  font-family: 'Minecraft';
+  font-style: normal;
+  font-weight: 700;
+  src: url('minecraft/MinecraftBold.otf')
+}
+@font-face {
+  font-family: 'Minecraft';
+  font-style: italic;
+  font-weight: 700;
+  src: url('minecraft/MinecraftBoldItalic.otf')
+}
