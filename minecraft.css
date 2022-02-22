@@ -1,17 +1,17 @@
 /*
 Minecraft Mable theme 
 Author: Ben Stokman <ben.stokman@protonmail.com>
-Version 1.0
+Version 1.1
 */
 
 @import url("minecraft/minecraft.css");
-@import url("minecraft/share-tech-mono.css");
+@import url("minecraft/minecrafter.css");
 
 :root {
 	--theme-color: #558a2c;
-	--title-font: "Minecraft", sans-serif;
+	--title-font: "Minecrafter", sans-serif;
+	--ui-font: "Minecraft", sans-serif;
 	--title-weight: 400;
-	--monospace-font: "Share Tech Mono", monospace;
 }
 
 button, a.button, input[type=submit] {
