@@ -6,11 +6,15 @@ Version 1.1
 
 @import url("minecraft/minecraft.css");
 @import url("minecraft/minecrafter.css");
+@import url("minecraft/share-tech.css");
 
 :root {
 	--theme-color: #558a2c;
 	--title-font: "Minecrafter", sans-serif;
 	--ui-font: "Minecraft", sans-serif;
+	--body-font: "Share Tech", monospace;
+	--reading-size: 20px;
+	--reading-font: "Share Tech", monospace;
 	--title-weight: 400;
 }
 
