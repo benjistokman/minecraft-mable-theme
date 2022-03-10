@@ -32,32 +32,32 @@ button, a.button, input[type=submit] {
 
 .section-theme.minecraft-blue-glazed-terracotta {
 	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/blue-glazed-terracotta.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	text-shadow: 0px 0px 16px var(--dark-color);
 }
 
 .section-theme.minecraft-brown-glazed-terracotta {
 	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/brown-glazed-terracotta.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	text-shadow: 0px 0px 16px var(--dark-color);
 }
 
 .section-theme.minecraft-cyan-glazed-terracotta {
 	background:linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('minecraft/cyan-glazed-terracotta.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	text-shadow: 0px 0px 16px var(--dark-color);
 }
 
 .section-theme.minecraft-gray-glazed-terracotta {
 	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/gray-glazed-terracotta.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	text-shadow: 0px 0px 16px var(--dark-color);
 }
 
 .section-theme.minecraft-green-glazed-terracotta {
 	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/green-glazed-terracotta.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	text-shadow: 0px 0px 16px var(--dark-color);
 }
 
 .section-theme.minecraft-light-blue-glazed-terracotta {
 	background:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('minecraft/light-blue-glazed-terracotta.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	text-shadow: 0px 0px 16px var(--dark-color);
 }
 
 .section-theme.minecraft-light-gray-glazed-terracotta {
@@ -70,32 +70,32 @@ button, a.button, input[type=submit] {
 
 .section-theme.minecraft-lime-glazed-terracotta {
 	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/lime-glazed-terracotta.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	text-shadow: 0px 0px 16px var(--dark-color);
 }
 
 .section-theme.minecraft-magenta-glazed-terracotta {
 	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/magenta-glazed-terracotta.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	text-shadow: 0px 0px 16px var(--dark-color);
 }
 
 .section-theme.minecraft-orange-glazed-terracotta {
 	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/orange-glazed-terracotta.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	text-shadow: 0px 0px 16px var(--dark-color);
 }
 
 .section-theme.minecraft-pink-glazed-terracotta {
 	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/pink-glazed-terracotta.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	text-shadow: 0px 0px 16px var(--dark-color);
 }
 
 .section-theme.minecraft-purple-glazed-terracotta {
 	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/purple-glazed-terracotta.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	text-shadow: 0px 0px 16px var(--dark-color);
 }
 
 .section-theme.minecraft-red-glazed-terracotta {
 	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/red-glazed-terracotta.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	text-shadow: 0px 0px 16px var(--dark-color);
 }
 
 .section-theme.minecraft-white-glazed-terracotta {
@@ -108,41 +108,41 @@ button, a.button, input[type=submit] {
 
 .section-theme.minecraft-yellow-glazed-terracotta {
 	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/yellow-glazed-terracotta.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	text-shadow: 0px 0px 16px var(--dark-color);
 }
 
 .section-theme.minecraft-black-wool {
-	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/black-wool.png');
+	background-image: url('minecraft/black-wool.png');
 }
 
 .section-theme.minecraft-blue-wool {
-	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/blue-wool.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	background-image: url('minecraft/blue-wool.png');
+	text-shadow: 0px 0px 16px var(--dark-color);
 }
 
 .section-theme.minecraft-brown-wool {
-	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/brown-wool.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	background-image: url('minecraft/brown-wool.png');
+	text-shadow: 0px 0px 16px var(--dark-color);
 }
 
 .section-theme.minecraft-cyan-wool {
 	background:linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('minecraft/cyan-wool.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	text-shadow: 0px 0px 16px var(--dark-color);
 }
 
 .section-theme.minecraft-gray-wool {
-	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/gray-wool.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	background-image:  url('minecraft/gray-wool.png');
+	text-shadow: 0px 0px 16px var(--dark-color);
 }
 
 .section-theme.minecraft-green-wool {
-	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/green-wool.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	background-image: url('minecraft/green-wool.png');
+	text-shadow: 0px 0px 16px var(--dark-color);
 }
 
 .section-theme.minecraft-light-blue-wool {
 	background:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('minecraft/light-blue-wool.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	text-shadow: 0px 0px 16px var(--dark-color);
 }
 
 .section-theme.minecraft-light-gray-wool {
@@ -154,33 +154,33 @@ button, a.button, input[type=submit] {
 }
 
 .section-theme.minecraft-lime-wool {
-	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/lime-wool.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	background-image: url('minecraft/lime-wool.png');
+	text-shadow: 0px 0px 16px var(--dark-color);
 }
 
 .section-theme.minecraft-magenta-wool {
-	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/magenta-wool.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	background-image: url('minecraft/magenta-wool.png');
+	text-shadow: 0px 0px 16px var(--dark-color);
 }
 
 .section-theme.minecraft-orange-wool {
-	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/orange-wool.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	background-image: url('minecraft/orange-wool.png');
+	text-shadow: 0px 0px 16px var(--dark-color);
 }
 
 .section-theme.minecraft-pink-wool {
-	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/pink-wool.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	background-image: url('minecraft/pink-wool.png');
+	text-shadow: 0px 0px 16px var(--dark-color);
 }
 
 .section-theme.minecraft-purple-wool {
-	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/purple-wool.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	background-image: url('minecraft/purple-wool.png');
+	text-shadow: 0px 0px 16px var(--dark-color);
 }
 
 .section-theme.minecraft-red-wool {
-	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/red-wool.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	background-image: url('minecraft/red-wool.png');
+	text-shadow: 0px 0px 16px var(--dark-color);
 }
 
 .section-theme.minecraft-white-wool {
@@ -192,6 +192,6 @@ button, a.button, input[type=submit] {
 }
 
 .section-theme.minecraft-yellow-wool {
-	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/yellow-wool.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	background-image: url('minecraft/yellow-wool.png');
+	text-shadow: 0px 0px 16px var(--dark-color);
 }
