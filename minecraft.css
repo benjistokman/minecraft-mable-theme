@@ -1,7 +1,7 @@
 /*
 Minecraft Mable theme 
 Author: Ben Stokman <ben.stokman@protonmail.com>
-Version 1.1
+Version 1.2
 */
 
 @import url("minecraft/minecraft.css");
@@ -61,8 +61,11 @@ button, a.button, input[type=submit] {
 }
 
 .section-theme.minecraft-light-gray-glazed-terracotta {
-	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/light-gray-glazed-terracotta.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	background-image: url('minecraft/light-gray-glazed-terracotta.png');
+	--element-background-color: var(--white-color);
+	--body-color: var(--black-color);
+	--highlight-color: var(--theme-color);
+	--blockquote-color: var(--theme-color);
 }
 
 .section-theme.minecraft-lime-glazed-terracotta {
@@ -96,11 +99,99 @@ button, a.button, input[type=submit] {
 }
 
 .section-theme.minecraft-white-glazed-terracotta {
-	background:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('minecraft/white-glazed-terracotta.png');
-	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+	background-image: url('minecraft/white-glazed-terracotta.png');
+	--element-background-color: var(--white-color);
+	--body-color: var(--black-color);
+	--highlight-color: var(--theme-color);
+	--blockquote-color: var(--theme-color);
 }
 
 .section-theme.minecraft-yellow-glazed-terracotta {
 	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/yellow-glazed-terracotta.png');
+	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+}
+
+.section-theme.minecraft-black-wool {
+	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/black-wool.png');
+}
+
+.section-theme.minecraft-blue-wool {
+	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/blue-wool.png');
+	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+}
+
+.section-theme.minecraft-brown-wool {
+	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/brown-wool.png');
+	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+}
+
+.section-theme.minecraft-cyan-wool {
+	background:linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('minecraft/cyan-wool.png');
+	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+}
+
+.section-theme.minecraft-gray-wool {
+	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/gray-wool.png');
+	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+}
+
+.section-theme.minecraft-green-wool {
+	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/green-wool.png');
+	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+}
+
+.section-theme.minecraft-light-blue-wool {
+	background:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('minecraft/light-blue-wool.png');
+	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+}
+
+.section-theme.minecraft-light-gray-wool {
+	background-image: url('minecraft/light-gray-wool.png');
+	--element-background-color: var(--white-color);
+	--body-color: var(--black-color);
+	--highlight-color: var(--theme-color);
+	--blockquote-color: var(--theme-color);
+}
+
+.section-theme.minecraft-lime-wool {
+	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/lime-wool.png');
+	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+}
+
+.section-theme.minecraft-magenta-wool {
+	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/magenta-wool.png');
+	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+}
+
+.section-theme.minecraft-orange-wool {
+	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/orange-wool.png');
+	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+}
+
+.section-theme.minecraft-pink-wool {
+	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/pink-wool.png');
+	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+}
+
+.section-theme.minecraft-purple-wool {
+	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/purple-wool.png');
+	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+}
+
+.section-theme.minecraft-red-wool {
+	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/red-wool.png');
+	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
+}
+
+.section-theme.minecraft-white-wool {
+	background-image: url('minecraft/white-wool.png');
+	--element-background-color: var(--white-color);
+	--body-color: var(--black-color);
+	--highlight-color: var(--theme-color);
+	--blockquote-color: var(--theme-color);
+}
+
+.section-theme.minecraft-yellow-wool {
+	background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('minecraft/yellow-wool.png');
 	text-shadow: 0px 0px 4px var(--black-color), 0px 0px 8px var(--black-color), 0px 0px 16px var(--dark-color);
 }
